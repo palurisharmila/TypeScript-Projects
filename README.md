@@ -215,6 +215,11 @@ npm start
 ```
 
 ---
+Screenshots:
+![Screenshot 2025-01-10 104624](https://github.com/user-attachments/assets/69a8d40d-34b9-4279-aeb1-8637bf77b8d2)
+![Screenshot 2025-01-10 104630](https://github.com/user-attachments/assets/e4883180-66ab-45f6-a942-710e2bbd93e3)
+
+
 
 ### 5. TodoList
 A simple and intuitive to-do list application for managing daily tasks. This project uses TypeScript to ensure type safety and manage task states effectively.
@@ -253,6 +258,10 @@ npm start
 ```
 
 ---
+
+Screenshots:
+![Screenshot 2025-01-10 104732](https://github.com/user-attachments/assets/57ee06a5-9040-4308-bfde-1b20d6730572)
+
 
 ## Contributing
 Feel free to fork this repository, make changes, and submit pull requests. Contributions are always welcome!
