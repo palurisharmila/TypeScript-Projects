@@ -9,6 +9,7 @@ This repository contains various TypeScript projects, including:
 3. **WeatherApp**
 4. **RegistrationForm**
 5. **TodoList**
+6. **Components**
 
 Each project is built with TypeScript and showcases different use cases and functionalities.
 
@@ -119,7 +120,21 @@ npm start
 Screenshots:
 ![Screenshot 2025-01-10 104732](https://github.com/user-attachments/assets/57ee06a5-9040-4308-bfde-1b20d6730572)
 
+### 6.Components
+A simple addition performing Calculator
 
+###Features:
+-Takes input from users and performs calculations.
+
+#### Setup:
+```bash
+cd componentsUI
+npm install
+npm start
+```
+
+Screenshot:
+![Screenshot 2025-01-10 104456](https://github.com/user-attachments/assets/8b3e6c47-9b5f-4fa4-a5aa-67ea75832471)
 
 
 ## Contributing
