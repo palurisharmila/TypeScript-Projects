@@ -10,6 +10,7 @@ This repository contains various TypeScript projects, including:
 4. **RegistrationForm**
 5. **TodoList**
 6. **Components**
+7. **Recipe App**
 
 Each project is built with TypeScript and showcases different use cases and functionalities.
 
