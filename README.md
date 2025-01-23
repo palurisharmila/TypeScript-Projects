@@ -139,6 +139,19 @@ Screenshot:
 
 
 6. Recipe App
+A visually appealing recipe application that allows users to browse, search, and save their favorite recipes. This project demonstrates the use of TypeScript for managing components, ensuring type safety, and handling API interactions.
+
+###Features:
+-Browse recipes by category
+-Search for recipes by name or ingredient
+-Save favorite recipes locally
+-Responsive design
+
+####Setup:
+cd RecipeApp  
+npm install  
+npm start
+
 
 Screenshot:
 ![image](https://github.com/user-attachments/assets/1295916e-d763-470b-87a3-8edbccc4bc9a)
